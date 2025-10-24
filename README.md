@@ -1,0 +1,2 @@
+# omabuntu
+Make Lubuntu/Xubuntu 24.04 Minimal look &amp; behave like an Omarchy-style Hyprland desktop
