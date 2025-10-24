@@ -1,4 +1,4 @@
-# Omabuntu
+![omabuntu logo](https://github.com/davidguri/omabuntu//blob/main/ascii-art-text.png?raw=true)
 
 Make a fresh **Xubuntu/Lubuntu 24.04 _Minimal_** look & feel like **Omarchy’s Hyprland** desktop — without Arch.
 
