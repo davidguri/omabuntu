@@ -1,0 +1,9 @@
+font=JetBrains Mono 12
+background-color=#0A0A0AF0
+text-color=#EDEDED
+border-color=__ACCENT__
+border-size=2
+default-timeout=4500
+icon-path=/usr/share/icons
+anchor=top-right
+margin=12,12,0,0
